@@ -1,1 +1,1 @@
-# HATUA
+# HATUA Genomics
